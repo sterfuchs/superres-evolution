@@ -1,0 +1,26 @@
+# Core deep learning framework
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Image processing
+Pillow>=10.0.0
+
+# Numerical computing
+numpy>=1.24.0
+
+# Progress bars and utilities
+tqdm>=4.65.0
+
+# Data handling and visualization
+matplotlib>=3.7.0
+scipy>=1.10.0
+
+# Jupyter notebook support
+jupyter>=1.0.0
+ipykernel>=6.25.0
+
+# Image quality metrics
+scikit-image>=0.21.0
+
+# Configuration and utilities
+PyYAML>=6.0
